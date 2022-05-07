@@ -1,1 +1,1 @@
-!pip install uproot awkward #
+datos_desde_csv = pd.read_csv('20220310-Co-60.xlsx', index_col = [0,1])
